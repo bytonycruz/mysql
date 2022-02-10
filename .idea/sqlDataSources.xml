@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DdlMappings">
+    <mapping uuid="dfc9d533-c6fc-4c98-9905-004762369bb9" name="Pegaso Mapping">
+      <data-sources db="ee65a4dd-cecc-416f-9778-82750d90f398" />
+      <scope>
+        <node kind="schema" qname="Pegaso" />
+      </scope>
+    </mapping>
+  </component>
+</project>
